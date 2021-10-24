@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jarrett
-- 👀 I’m interested in engineering and programming. The programming languages I enjoy are JavaScript/TypeScript, Python and even some Rust!
-- 🌱 I’m currently learning React Native, and I am developing a mobile app using TypeScript with React Native!
+- 👀 I’m interested in engineering and programming. The programming languages I enjoy are JavaScript and Python!
+- 🌱 I’m currently working on project relating to JavaScript and Python.
 - 💞️ I’m looking to collaborate on future projects in the future.
 - 📫 How to reach me --> Email: Jarrettgoh.xz@gmail.com
 
