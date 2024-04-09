@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jarrett
-- 👀 I’m interested in engineering and programming. The programming languages I enjoy are JavaScript and Python!
-- 🌱 I’m currently working on project relating to JavaScript and Python.
-- 💞️ I’m looking to collaborate on future projects in the future.
+- 👀 I’m interested in cybersecurity and programming
+- 🌱 I’m currently learning about cybersecurity
 - 📫 How to reach me --> Email: Jarrettgoh.xz@gmail.com
 
 <!---
