@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jarrett, currently studying Computer science at Nanyang Technological University!
-- 👀 I’m interested in cybersecurity and new technologies!
+- 👋 Hi, I’m Jarrett, currently studying Computer Science in Nanyang Technological University!
+- 👀 I’m interested in cybersecurity and learning about new technologies!
 - 🌱 I’m currently learning about cybersecurity
 - 📫 How to reach me --> Email: Jarrettgoh.xz@gmail.com
 
